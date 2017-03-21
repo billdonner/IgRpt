@@ -18,7 +18,7 @@ import CloudFoundryConfig
 import CloudFoundryDeploymentTracker
 import KitCommons
 
-let serverConfigRpt = ServerConfig( version: "0.998920",
+let serverConfigRpt = ServerConfig( version: "0.998922",
                                  title: "IGBLUEREPORTS",
                                 description: "/report and /report-list routes",
                                 ident : "https://igblue.mybluemix.net")
