@@ -36,5 +36,5 @@ This is a full kitura server. To utilize it, create a main program somewhere wit
  
 
 ## Notes
-   dependent on KitCommons [https://github.com/billdonner/KitCommons](https://github.com/billdonner/KitCommons)
+   dependent on KitCommons [https://github.com/billdonner/IgKitCommons](https://github.com/billdonner/IgKitCommons)
 
